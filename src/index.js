@@ -2,6 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import { Alert } from 'reactstrap';
 // import landing from "./pages/Landing"
 
 // export const BASE_URL = 'https://api.nasa.gov/planetary/apod?'

@@ -45,7 +45,6 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hello from App.js</h1>
       <Landing image={image} title={title} date={date} explanation={explanation}/>
     </div>
   );
